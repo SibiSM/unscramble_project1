@@ -1,0 +1,21 @@
+# Run time analysis
+
+## Task0
+The execution of the program takes 2 lines.Complexity->O(1).
+
+## Task1
+The execution of both calls and texts perform n times.Complexity->O(n).
+
+## Task2
+The execution takes n time to run.Complexity->O(n).
+
+## Task3
+The code is iterated for n times.So O(n) and sorting function in implemented which have a time complexity
+of O(n log n).So, O(n)+O(n log n) becomes O(n log n) complexity.
+Complexity->O(n log n).
+
+
+## Task4
+The list of texters take two for loops inside the list so the complexity is O(n^2).
+Complexity->O(n^2).
+
